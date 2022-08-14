@@ -1,1 +1,2 @@
-#ElTurtlePillow
+<img src="./pkbnr.png" alt="banner" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElTurtlePillow&layout=compact)](https://github.com/ElTurtlePillow/github-readme-stats)
